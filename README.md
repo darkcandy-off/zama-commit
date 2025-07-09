@@ -101,7 +101,7 @@ git push
 
 • Close Every Tab ( Browser )
 
-• Just Wait 5-10 Minutes Max
+• Just Wait a few moments
 
 • You now have more than 10 public commits.
 
